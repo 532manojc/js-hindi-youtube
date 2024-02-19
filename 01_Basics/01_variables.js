@@ -9,4 +9,8 @@ console.log(accPassword);
 console.log(accEmail);
 console.log(accCity);
 
+accEmail="1234manojc@gmail.com"
+accPassword=453453
+accCity="banglore"
+
 console.table([accId,accEmail,accPassword,accCity])
