@@ -13,7 +13,7 @@ function add2Num(num1,num2){
   const ans=add2Num(5,3);  //wrong
   // console.log("the answer is ",ans);
   
-  function loggedInUserMessage(username='sam'){  //default value like sam
+  function loggedInUserMessage(username='sam'){  //default value like  sam
     if(username === undefined){
       console.log("please enter the username");
       return
